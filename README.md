@@ -153,3 +153,6 @@ for attempt in range(max_retries):
 3. Wait for both containers to start (the Streamlit container may initially fail and retry connecting to MySQL)
 4. Access your Streamlit app at http://localhost:8501
 
+<p align="center">
+  <img src="images/img-1.png" alt="Streamlit on AWS EC2" />
+</p>
